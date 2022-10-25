@@ -1,3 +1,5 @@
+//this code is for the randomised dots that appear on the canvas
+
 void setup(){
   size(400, 400);
   background(35, 27, 107);
