@@ -1,4 +1,4 @@
-
+//this code is for the ellipses that move with the cursor at 0.05 framerate
 
 void setup() {
   size(400, 400); 
