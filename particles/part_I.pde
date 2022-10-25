@@ -1,3 +1,5 @@
+//this code is for 4000 particles that appear when the mouse is pressed from the middle of the canvas
+
 //set canvas size
  void setup (){
  size (400, 400); smooth(); noStroke();
