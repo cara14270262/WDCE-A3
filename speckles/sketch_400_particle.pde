@@ -1,3 +1,5 @@
+//this code is for the randomised speckles that follow the cursor whilst changing colours
+
 void setup() {
   size(400, 400); background(0, 25, 51); noStroke();
   
